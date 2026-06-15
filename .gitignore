@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+
+# env files
+.env
+.env.local
+
+# build output
+dist/
+build/
+
+# database
+*.db
+*.db-journal
+
+# logs
+*.log
+npm-debug.log*
+
+# editor
+.vscode/
+.idea/
